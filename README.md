@@ -1,2 +1,2 @@
-# hello-project
+# hello-world
 test repository
